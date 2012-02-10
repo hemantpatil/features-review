@@ -10,9 +10,9 @@
 function ms_taxonomy_taxonomy_default_vocabularies() {
   return array(
     'vehicle' => array(
-      'name' => 'Vehicle',
+      'name' => 'Vehicle_Updated',
       'machine_name' => 'vehicle',
-      'description' => 'Vehicle Desciription',
+      'description' => 'Vehicle Desciription Updated',
       'hierarchy' => '0',
       'module' => 'taxonomy',
       'weight' => '0',
