@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the ms_strongarm feature.
+ */
+
+include_once('ms_strongarm.features.inc');
